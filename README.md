@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://your-drum-machine-demo-link.vercel.app" target="_blank">
+  <a href="https://drum-machine-zeta-six.vercel.app/" target="_blank">
     <img src="./public/drum.png" alt="Drum Machine Demo" width="200"/>
   </a>
 </p>
@@ -15,7 +15,7 @@
   <a href="#usage">Usage</a>
 </p>
 
-<img src="./public/samplel.png" alt="Drum Machine App Screenshot" align="center" width="auto" height="auto">
+<img src="./public/sample.png" alt="Drum Machine App Screenshot" align="center" width="auto" height="auto">
 
 ---
 
@@ -24,7 +24,7 @@
 **Drum Machine** is a responsive and interactive web application where users can play drum sounds by clicking on pads or pressing corresponding keyboard keys.  
 Built with **React**, it demonstrates state management, event handling, and responsive design principles.
 
-🔗 [Live Demo](https://your-drum-machine-demo-link.vercel.app)
+🔗 [Live Demo](https://drum-machine-zeta-six.vercel.app/)
 
 ---
 
