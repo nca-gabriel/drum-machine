@@ -12,7 +12,8 @@
   <a href="#features">Features</a> •
   <a href="#tech-stack">Tech Stack</a> •
   <a href="#installation">Installation</a> •
-  <a href="#usage">Usage</a>
+  <a href="#usage">Usage</a> •
+  <a href="#credits">Credits</a>
 </p>
 
 <img src="./public/sample.png" alt="Drum Machine App Screenshot" align="center" width="auto" height="auto">
@@ -62,3 +63,8 @@ Start the development server:
 ```bash
 npm run dev
 ```
+
+
+## Credits 
+[Drum icon](https://www.flaticon.com/free-icon/drum_1282632) created by [xnimrodx](https://www.flaticon.com/authors/xnimrodx) — [Flaticon](https://www.flaticon.com/)
+
